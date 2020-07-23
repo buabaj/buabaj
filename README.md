@@ -1,16 +1,36 @@
-### Hi there 👋
+# Jerry Buaba :blush:
+Hello, I am Jerry Buaba, a Software and Machine Learning Engineer passionate about Data science and Analytics, Artificial Intelligence and Climate Science. 
 
-<!--
-**buabaj/buabaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:iphone: Software development
 
-Here are some ideas to get you started:
+:graph: Data Science and Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:computer: Machine Learning
+
+:rocket: MLOps
+
+:pen: Top Writer in Artificial Intelligence on Medium
+
+
+## Interact here
+<a href="https://twitter.com/buabaj_" target="_blank">
+  <img src="twitter.svg" alt="My Twitter Profile" height="35" width="35">
+</a>
+<a href="https://medium.com/@buabajerry" target="_blank">
+  <img src="medium.svg" alt="My Medium Profile" height="35" width="35">
+</a>
+<a href="https://www.linkedin.com/in/jerry-buaba-768351172/" target="_blank">
+  <img src="linkedin.svg" alt="My LinkedIn Profile" height="35" width="35">
+</a>
+<a href="https://web.facebook.com/profile.php?id=100015436720508" target="_blank">
+  <img src="facebook.svg" alt="My Facebook Profile" height="35" width="35">
+</a>
+
+
+## Do you want to discuss Volunteer task or remote job?
+* Mail: [buabajerry@gmail.com](mailto:buabajerry@gmail.com)
+
+
+
+
+
