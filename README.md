@@ -3,7 +3,7 @@ Hello, I am Jerry Buaba, a Software and Machine Learning Engineer passionate abo
 
 :iphone: Software development
 
-:graph: Data Science and Analytics
+:chart: Data Science and Analytics
 
 :computer: Machine Learning
 
@@ -14,7 +14,7 @@ Hello, I am Jerry Buaba, a Software and Machine Learning Engineer passionate abo
 
 ## Interact here
 <a href="https://twitter.com/buabaj_" target="_blank">
-  <img src="twitter.svg" alt="My Twitter Profile" height="35" width="35">
+  <img src="https://github.com/buabaj/buabaj/blob/master/twitter.svg?raw=true" alt="My Twitter Profile" height="35" width="35">
 </a>
 <a href="https://medium.com/@buabajerry" target="_blank">
   <img src="medium.svg" alt="My Medium Profile" height="35" width="35">
