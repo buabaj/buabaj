@@ -1,7 +1,7 @@
 # Jerry Buaba :blush:
 Hello, I am Jerry Buaba, a Software and Machine Learning Engineer passionate about Data science and Analytics, Artificial Intelligence and Climate Science. 
 
-:iphone: Software development
+:iphone: Software Development
 
 :chart: Data Science and Analytics
 
@@ -12,7 +12,7 @@ Hello, I am Jerry Buaba, a Software and Machine Learning Engineer passionate abo
 :pen: Top Writer in Artificial Intelligence on Medium
 
 
-## Contact me here
+## Reach me here
 <a href="https://twitter.com/buabaj_" target="_blank">
   <img src="https://github.com/buabaj/buabaj/blob/master/twitter.svg?raw=true" alt="My Twitter Profile" height="35" width="35">
 </a>
