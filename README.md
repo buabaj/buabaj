@@ -9,7 +9,7 @@ Hello, I am Jerry Buaba, a Software and Machine Learning Engineer passionate abo
 
 :rocket: MLOps
 
-:pen: Top Writer in Artificial Intelligence on Medium
+:pen: Top Writer in Artificial Intelligence on Medium (2020)
 
 
 ## Reach me here
