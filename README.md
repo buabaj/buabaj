@@ -1,11 +1,12 @@
 # Jerry Buaba :blush:
 Hello, I am Jerry Buaba, a Software and Machine Learning Engineer passionate about Data science and Analytics, Artificial Intelligence and Climate Science. 
 
-:iphone: Software Development
 
 :chart: Data Science and Analytics
 
 :computer: Machine Learning
+
+:iphone: Software Engineering
 
 :rocket: MLOps
 
