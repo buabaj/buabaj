@@ -12,6 +12,11 @@ Hello, I am Jerry Buaba, a Software and Machine Learning Engineer passionate abo
 
 :pen: Top Writer in Artificial Intelligence on Medium (2020)
 
+## GitHub Stats
+
+[![Jerry's GitHub stats](https://github-readme-stats.vercel.app/api?username=buabaj&count_private=true&show_icons=true&theme=synthwave&hide=contribs&hide_rank=true)](https://github.com/buabaj)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buabaj&hide=html&langs_count=7&layout=compact)](https://github.com/buabaj)
 
 ## Reach me here
 <a href="https://twitter.com/buabaj_" target="_blank">
@@ -28,7 +33,7 @@ Hello, I am Jerry Buaba, a Software and Machine Learning Engineer passionate abo
 </a>
 
 
-## Do you want to discuss Volunteer task or remote job?
+## Do you want to discuss Volunteer Task or Job Offer?
 * Mail: [buabajerry@gmail.com](mailto:buabajerry@gmail.com)
 
 
