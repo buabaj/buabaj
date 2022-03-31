@@ -20,10 +20,12 @@ Hello, I am Jerry Buaba. I am interested in building data and intelligent system
 <a href="https://web.facebook.com/profile.php?id=100015436720508" target="_blank">
   <img src="https://github.com/buabaj/buabaj/blob/master/facebook.svg?raw=true" alt="My Facebook Profile" height="35" width="35">
 </a>
--->
 
 ## Do you want to discuss Volunteer Task or any other Offer?
 * Mail: [buabajerry@gmail.com](mailto:buabajerry@gmail.com)
+-->
+
+
 
 
 
