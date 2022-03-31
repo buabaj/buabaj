@@ -1,17 +1,6 @@
-# Jerry Buaba :blush:
-Hello, I am Jerry Buaba, a Software and Machine Learning Engineer passionate about Data science and Analytics, Artificial Intelligence and Climate Science. 
+Hello, I am Jerry Buaba. I am interested in building data and intelligent systems.
 
-
-:chart: Data Science and Analytics
-
-:computer: Machine Learning
-
-:iphone: Software Engineering
-
-:rocket: MLOps
-
-:pen: Top Writer in Artificial Intelligence on Medium (2020)
-
+<!--
 ## GitHub Stats
 
 [![Jerry's GitHub stats](https://github-readme-stats.vercel.app/api?username=buabaj&count_private=true&show_icons=true&theme=synthwave&hide=contribs&hide_rank=true)](https://github.com/buabaj)
@@ -31,9 +20,9 @@ Hello, I am Jerry Buaba, a Software and Machine Learning Engineer passionate abo
 <a href="https://web.facebook.com/profile.php?id=100015436720508" target="_blank">
   <img src="https://github.com/buabaj/buabaj/blob/master/facebook.svg?raw=true" alt="My Facebook Profile" height="35" width="35">
 </a>
+-->
 
-
-## Do you want to discuss Volunteer Task or Job Offer?
+## Do you want to discuss Volunteer Task or any other Offer?
 * Mail: [buabajerry@gmail.com](mailto:buabajerry@gmail.com)
 
 
