@@ -1,8 +1,23 @@
-Hello, I am Jerry Buaba. I am interested in building data and intelligent systems.
+
+<h1 align="center">Hi 👋, I'm Jerry Buaba</h1>
+<h3 align="center">I love learning new things, I am currently in love with software and data <3 </h3>
+
+Here's what I do:
+
+
+- I occasionally write articles about topics i learn about on [Medium](https://buabajerry.medium.com)
+
+- I share my progress and dump my thoughts through my [tweets](https://twitter.com/jbuaba_)
+
+- I love to chat about Python, Data and Intelligent systems, APIs and Anime :P
+
+- You can send me an email at **buabajerry@gmail.com**
+
+
 
 <!--
 ## GitHub Stats
-
+Hello, I am Jerry Buaba. I am interested in building data and intelligent systems.
 [![Jerry's GitHub stats](https://github-readme-stats.vercel.app/api?username=buabaj&count_private=true&show_icons=true&theme=synthwave&hide=contribs&hide_rank=true)](https://github.com/buabaj)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buabaj&hide=html&langs_count=7&layout=compact)](https://github.com/buabaj)
