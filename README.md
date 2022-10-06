@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Jerry Buaba</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">, I'm Jerry Buaba</h1>
 <h3 align="center">I love learning new things, I am currently in love with software and data <3 </h3>
 
 Here's what I do:
