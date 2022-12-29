@@ -12,6 +12,8 @@ Here's what I do:
 - I share my progress and dump my thoughts through my [tweets](https://twitter.com/jbuaba_)
 
 - I love to chat about Python, Data and Intelligent systems, APIs and Anime :P
+  
+- I am currently learning Golang and other computer science concepts
 
 - You can send me an email at **buabajerry@gmail.com**
 
