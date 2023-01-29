@@ -13,7 +13,7 @@ Here's what I do:
 
 - I love to chat about Python, Data and Intelligent systems, APIs and Anime :P
   
-- I am currently learning Golang and other computer science concepts
+- I am currently learning Golang, C++ and other computer science concepts
 
 - You can send me an email at **buabajerry@gmail.com**
 
